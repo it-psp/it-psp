@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/it-psp/.github/main/profile/peruri-logo-white.png">
-  <img alt="PERURI Security Printing" src="https://raw.githubusercontent.com/it-psp/.github/main/profile/peruri-logo-color.png" width="340">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/it-psp/it-psp/main/peruri-logo-white.png">
+  <img alt="PERURI Security Printing" src="https://raw.githubusercontent.com/it-psp/it-psp/main/peruri-logo-color.png" width="340">
 </picture>
 
 <br/>
